@@ -22,7 +22,7 @@ Node.js, Express, REST APIs, tRPC, Drizzle ORM
 
 Databases
 
-MySQL, relational data modeling
+MySQL, SQLite, relational data modeling
 
 Cloud & DevOps
 
@@ -30,7 +30,7 @@ Google Cloud (Cloud Run, Cloud SQL), Docker, Git, GitHub
 
 Testing & Tools
 
-Vitest, VS Code, automated checks
+Vitest, pytest, VS Code, automated checks.
 
 Additional Interests
 
