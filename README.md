@@ -46,9 +46,21 @@ Learning more about cloud deployment, containers, and automated testing.
 
 Exploring practical integrations between applications and AI services.
 
-📂 Portfolio
+## 📂 Portfolio
 
-I'm currently building original, public projects to demonstrate backend development, database design, testing, and deployment. My strongest repositories will be featured here as they are completed.
+I'm building original, public projects to demonstrate my skills in backend development, database design, data processing, and automated testing.
+
+### [OrderFlow API](https://github.com/bernardosampaiosousa/orderflow-api)
+
+A REST API for managing products and orders, featuring JWT authentication, business rules, SQL transactions, and automated tests.
+
+**Technologies:** Node.js, TypeScript, Express, MySQL, Docker.
+
+### [RetailPulse](https://github.com/bernardosampaiosousa/retailpulse-pipeline)
+
+A Python ETL pipeline that validates retail transactions, stores data in SQLite, and generates monthly sales analytics using Pandas.
+
+**Technologies:** Python, Pandas, SQLite, pytest.
 
 🌎 Career Interests
 
