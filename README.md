@@ -1,6 +1,6 @@
 Hi, I'm Bernardo Sampaio 👋
 
-Backend Developer | Computer Science Student at PUC Minas | Brazil
+Backend Developer | Node.js, TypeScript & SQL | Brazil
 
 I'm a Computer Science student based in Belo Horizonte, Brazil, with a strong interest in backend engineering, API development, databases, and cloud infrastructure.
 
