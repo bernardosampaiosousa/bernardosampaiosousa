@@ -56,6 +56,12 @@ A REST API for managing products and orders, featuring JWT authentication, busin
 
 **Technologies:** Node.js, TypeScript, Express, MySQL, Docker.
 
+### [RelayForge API](https://github.com/bernardosampaiosousa/relayforge-api)
+
+A backend API for reliable webhook delivery, featuring JWT authentication, idempotent event processing, HMAC-signed requests, automatic retries, PostgreSQL persistence, and automated tests.
+
+**Technologies:** Node.js, TypeScript, Fastify, PostgreSQL, Docker, Vitest, Swagger.
+
 ### [RetailPulse](https://github.com/bernardosampaiosousa/retailpulse-pipeline)
 
 A Python ETL pipeline that validates retail transactions, stores data in SQLite, and generates monthly sales analytics using Pandas.
