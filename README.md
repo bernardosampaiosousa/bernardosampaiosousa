@@ -1,75 +1,27 @@
-Hi, I'm Bernardo Sampaio 👋
+# Bernardo Sampaio
 
-Backend Developer | Node.js, TypeScript & SQL | Brazil
+Backend Developer · Belo Horizonte, Brazil
 
-I'm a Computer Science student based in Belo Horizonte, Brazil, with a strong interest in backend engineering, API development, databases, and cloud infrastructure.
+I'm studying Computer Science at PUC Minas and currently work at Acuracce. My focus is backend development: APIs, SQL databases, integrations, and business rules.
 
-I enjoy translating real-world requirements into reliable software, learning how systems work behind the scenes, and improving the structure, performance, and maintainability of applications.
+My work projects are private, so this GitHub is where I share independent projects and keep track of what I'm learning.
 
-🛠️ Tech Stack
+## Projects
 
-Area
+- **[OrderFlow API](https://github.com/bernardosampaiosousa/orderflow-api)** — An order management API. I focused on transactional checkout and preventing two purchases from selling the same stock. Built with TypeScript, Express, and MySQL.
+- **[RelayForge API](https://github.com/bernardosampaiosousa/relayforge-api)** — A webhook service with signed requests, retries, and a background worker. Built with TypeScript, Fastify, and PostgreSQL.
+- **[RetailPulse Pipeline](https://github.com/bernardosampaiosousa/retailpulse-pipeline)** — A Python pipeline that validates retail CSV files, loads them into SQLite, and generates monthly sales reports with Pandas.
 
-Technologies
+## Tools I use
 
-Languages
+- **Backend:** TypeScript, JavaScript, Node.js, Express, Fastify, REST APIs
+- **Databases:** MySQL, PostgreSQL, SQLite, SQL
+- **Cloud and tooling:** Google Cloud, Docker, Git, GitHub Actions
+- **Testing:** Vitest, Supertest, pytest
+- **Also familiar with:** Python, Java, C, C++
 
-TypeScript, JavaScript, Python, Java, SQL, C, C++
+## Contact
 
-Backend
+[LinkedIn](https://www.linkedin.com/in/bernardo-sampaiodev/)
 
-Node.js, Express, REST APIs, tRPC, Drizzle ORM
-
-Databases
-
-MySQL, SQLite, relational data modeling
-
-Cloud & DevOps
-
-Google Cloud (Cloud Run, Cloud SQL), Docker, Git, GitHub
-
-Testing & Tools
-
-Vitest, pytest, VS Code, automated checks.
-
-Additional Interests
-
-AI integrations, software architecture, application security
-
-🚀 What I'm Focused On
-
-Building well-structured APIs and backend services.
-
-Working with SQL databases, data persistence, and business logic.
-
-Learning more about cloud deployment, containers, and automated testing.
-
-Exploring practical integrations between applications and AI services.
-
-## 📂 Portfolio
-
-I'm building original, public projects to demonstrate my skills in backend development, database design, data processing, and automated testing.
-
-### [OrderFlow API](https://github.com/bernardosampaiosousa/orderflow-api)
-
-A REST API for managing products and orders, featuring JWT authentication, business rules, SQL transactions, and automated tests.
-
-**Technologies:** Node.js, TypeScript, Express, MySQL, Docker.
-
-### [RelayForge API](https://github.com/bernardosampaiosousa/relayforge-api)
-
-A backend API for reliable webhook delivery, featuring JWT authentication, idempotent event processing, HMAC-signed requests, automatic retries, PostgreSQL persistence, and automated tests.
-
-**Technologies:** Node.js, TypeScript, Fastify, PostgreSQL, Docker, Vitest, Swagger.
-
-### [RetailPulse](https://github.com/bernardosampaiosousa/retailpulse-pipeline)
-
-A Python ETL pipeline that validates retail transactions, stores data in SQLite, and generates monthly sales analytics using Pandas.
-
-**Technologies:** Python, Pandas, SQLite, pytest.
-
-🌎 Career Interests
-
-I'm interested in junior backend and full-stack opportunities, including remote roles with international teams where I can contribute, learn, and grow as a software engineer.
-
-Always learning. Always building
+I'm interested in junior backend and full-stack opportunities, including remote roles with international teams.
